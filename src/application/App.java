@@ -3,7 +3,12 @@ package application;
 public class App {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		int cats;
+		cats = 7;
+		
+		System.out.println("How many cats are there?");
+		System.out.println(cats);
 
 	}
 
