@@ -10,8 +10,11 @@ public class App {
 		
 		int total = cats + birds + dogs;
 		
-		System.out.println("How many animals are there?");
-		System.out.println(total);
+		System.out.println("Number of cats: " + cats);
+		System.out.println("Number of dogs: " + dogs);
+		System.out.println("Number of birds: " + birds);
+		
+		System.out.println("Total number of animals: " + total);
 
 	}
 
